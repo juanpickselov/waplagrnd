@@ -1,0 +1,12 @@
+body {font:100% Tahoma,Verdana,Arial,sans-serif}
+th {text-align:left;margin:0;padding-left:0}
+h1 {border-bottom:6px double #333;margin:0}
+
+.col2 {display:table;margin:0 auto;padding:0;vertical-align:top;width:75%}
+.col2 .col {display:table-cell;width:50%;vertical-align:top}
+.col2 .col ul {margin:0 auto;width:75%}
+.ftr p {border-top:6px double #333}
+.hdr, .ftr {text-align:center}
+.pg {margin:15px;padding:0}
+.tools {margin:0;padding:0 0 15px 0}
+
