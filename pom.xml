@@ -24,10 +24,7 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-war-plugin</artifactId>
                 <configuration>
-                <!--
-                putting this here does not delete the output directory
-                like it does if you put it in the root of build
-                -->
+                <!-- putting this here does not empty the output directory like when you put it in the root of build -->
                     <outputDirectory>C:\zUtils\tomcat8p5p24\webapps</outputDirectory>
                 </configuration>
             </plugin>
