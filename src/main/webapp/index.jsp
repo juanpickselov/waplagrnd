@@ -13,6 +13,8 @@
                 <dd><a href="./tbl.jsp">Rows Add Method</a></dd>
                 <dt>Layouts</dt>
                 <dd><a href="./layout2ColHdrFtr.jsp">Two Column</a></dd>
+                <dt>Lists</dt>
+                <dd><a href="./lists.jsp">list samples</a></dd>
             </dl>
         </div>
         <script src="/plagrnd/resources/skrypz/jquery-1.12.4.js"> </script>

@@ -8,6 +8,7 @@
         <div class="pg">
             <h1>Web UI Playground</h1>
             <h2>List Samples</h2>
+
             <dl>
                 <dt>Appetizers</dt>
                 <dd>Shrimp Cocktail</dd>
@@ -18,6 +19,11 @@
                 <dd>Chicken Salad</dd>
                 <dd>Monte Cristo</dd>
             </dl>
+            <ol>
+                <li>One item</li>
+                <li>two items</li>
+                <li>three items</li>
+            </ol>
         </div>
         <script src="/plagrnd/resources/skrypz/jquery-1.12.4.js"> </script>
         <script src="/plagrnd/resources/skrypz/jquery.dataTables.min.js"> </script>
