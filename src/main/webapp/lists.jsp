@@ -7,15 +7,23 @@
     <body>
         <div class="pg">
             <h1>Web UI Playground</h1>
-            <h2>A place to play with HTML, CSS, and JavaScript</h2>
+            <h2>List Samples</h2>
+
             <dl>
-                <dt>Data Tables</dt>
-                <dd><a href="./tbl.jsp">Rows Add Method</a></dd>
-                <dt>Layouts</dt>
-                <dd><a href="./layout2ColHdrFtr.jsp">Two Column</a></dd>
-                <dt>Lists</dt>
-                <dd><a href="./lists.jsp">list samples</a></dd>
+                <dt>Appetizers</dt>
+                <dd>Shrimp Cocktail</dd>
+                <dd>Stuffed Quahog</dd>
+                <dd>Chicken Tenders</dd>
+                <dt>Sandwiches</dt>
+                <dd>Tuna Melt</dd>
+                <dd>Chicken Salad</dd>
+                <dd>Monte Cristo</dd>
             </dl>
+            <ol>
+                <li>One item</li>
+                <li>two items</li>
+                <li>three items</li>
+            </ol>
         </div>
         <script src="/plagrnd/resources/skrypz/jquery-1.12.4.js"> </script>
         <script src="/plagrnd/resources/skrypz/jquery.dataTables.min.js"> </script>
